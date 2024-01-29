@@ -10,12 +10,13 @@
 
 body {
   min-height: 100vh;
-  Width: 100vw;
+  width: 100vw;
 }
 
 .header-sec {
   margin-bottom: 40px;
   background: #170429;
+  width: 100vw;
 }
 
 nav {
@@ -228,6 +229,9 @@ nav .navbar .links li:hover .asserts-sub-menu {
 }
 
 @media (max-width:920px) {
+  nav {
+width: 100vw;
+}
   nav .navbar {
     max-width: 100%;
     padding: 0 25px;
