@@ -2430,7 +2430,7 @@ i {
 /*new-construction-before*/
 .new-construction-before {
   text-align: center;
-  width: 100%;
+  width: 100vw;
   height: 75vh;
 }
 
@@ -2564,6 +2564,7 @@ i {
 @media (max-width: 800px) {
   .new-construction-col {
     flex-direction: column;
+    width: 90vw;
     gap: 40px;
   }
 }
