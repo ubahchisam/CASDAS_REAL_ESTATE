@@ -1113,11 +1113,8 @@ width: 100vw;
   padding: 5px;
   background: #fcf9f9;
 }
-#comment-imgs {
-  width: 80vw;
-}
 .comment-row img{
-  width: 140px;
+  /*width: 100%;*/
 }
 .comment h1 {
   font-size: 1.1rem;
