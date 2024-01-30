@@ -1017,12 +1017,16 @@ width: 100vw;
     font-size: 1.0rem;
   }
 }
-
+@media (max-width: 550px) {
+.free-edu h1 {
+    width: 95%;
+    font-size: 1.0rem;
+  }
+}
 /*partnership*/
 .partnership {
   padding: 30px;
 }
-
 .partnership-col marquee img {
   width: 150px;
   height: 100px;
