@@ -1119,6 +1119,9 @@ width: 100vw;
 .comment-row img{
   width: 200px;
 }
+.comment h1 {
+  font-size: 1.5rem;
+}
 }
 
 /*add comment section*/
