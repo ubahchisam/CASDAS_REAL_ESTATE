@@ -1081,7 +1081,7 @@ width: 100vw;
   padding: 0px;
 }
 
-#comment-imgs img{
+.comment-row img{
   width: 100%;
 }
 .comment-row i {
