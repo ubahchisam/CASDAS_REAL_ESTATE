@@ -1075,9 +1075,11 @@ width: 100vw;
 
 #comment-imgs {
   padding: 0px;
-  width: 100%;
 }
 
+#comment-imgs img{
+  width: 100%;
+}
 .comment-row i {
   margin: 5px;
   padding: 10px;
