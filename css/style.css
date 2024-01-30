@@ -1113,6 +1113,9 @@ width: 100vw;
   padding: 5px;
   background: #fcf9f9;
 }
+#comment-imgs {
+  width: 95vw;
+}
 }
 
 /*add comment section*/
