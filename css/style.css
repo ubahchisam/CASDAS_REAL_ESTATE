@@ -552,6 +552,13 @@ width: 100vw;
   }
 }
 
+@media (max-width: 550px) {
+  .discovery h1 {
+    font-size: 1.4rem;
+    width: 90%;
+  }
+}
+
 /*how it works*/
 .works {
   width: 100%;
