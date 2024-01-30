@@ -1178,6 +1178,15 @@ width: 100vw;
   }
 }
 
+@media (max-width: 550px) {
+  .add-comment-seb-col {
+    width: 90%;
+  }
+
+  .rate {
+    padding-left: 20%;
+  }
+}
 /*rate ends*/
 .add-comment-sec-row {
   display: flex;
