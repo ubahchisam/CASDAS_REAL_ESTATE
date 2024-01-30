@@ -1044,6 +1044,7 @@ width: 100vw;
   background: rgba(207, 200, 200, 0.2);
   color: #170429;
   margin-bottom: 100px;
+  width: 100vw;
 }
 
 .comment h1 {
@@ -1091,6 +1092,16 @@ width: 100vw;
 .stars {
   position: relative;
   bottom: 20px;
+}
+
+@media (max-width: 550px) {
+.comment-row {
+  width: 90%;
+  height: 310px;
+  border: 1px solid rgb(168, 166, 166);
+  padding: 5px;
+  background: #fcf9f9;
+}
 }
 
 /*add comment section*/
@@ -1300,6 +1311,12 @@ width: 100vw;
     flex-basis: 90%;
     padding-left: 10px;
     padding-right: 10px;
+  }
+}
+
+@media (max-width: 550px) {
+  .add-comment-seb-col h1 {
+    width: 80%;
   }
 }
 
