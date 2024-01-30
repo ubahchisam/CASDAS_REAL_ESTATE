@@ -1116,6 +1116,9 @@ width: 100vw;
 #comment-imgs {
   width: 90vw;
 }
+.comment-row img{
+  width: 80%;
+}
 }
 
 /*add comment section*/
