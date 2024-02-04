@@ -1085,6 +1085,7 @@ width: 100vw;
   margin: 5px;
   padding: 10px;
   color: #deb217;
+  Font-size: 2rem;
 }
 
 .comment-row h4 {
@@ -1112,9 +1113,13 @@ width: 100vw;
 }
 .comment-row img{
   width: 100%;
+  height: 100%;
 }
 .comment h1 {
   font-size: 1.1rem;
+}
+.comment-row i {
+  Font-size: 1.1rem;
 }
 }
 
