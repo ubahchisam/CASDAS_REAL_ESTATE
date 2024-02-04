@@ -1111,7 +1111,7 @@ width: 100vw;
   background: #fcf9f9;
 }
 .comment-row img{
-  width: 50px;
+  width: 100%;
 }
 .comment h1 {
   font-size: 1.1rem;
