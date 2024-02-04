@@ -1105,7 +1105,7 @@ width: 100vw;
 
 @media (max-width: 550px) {
 .comment-row {
-  width: 90%;
+  width: 100%;
   height: 310px;
   border: 1px solid rgb(168, 166, 166);
   padding: 5px;
@@ -1121,6 +1121,11 @@ width: 100vw;
 .comment-row i {
   Font-size: 1.1rem;
 }
+.comment-row p {
+  margin: 5px;
+  padding: 5px;
+}
+
 }
 
 /*add comment section*/
