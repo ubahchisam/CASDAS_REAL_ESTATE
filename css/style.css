@@ -1077,7 +1077,7 @@ width: 100vw;
   background: #fcf9f9;
 }
 
-#comment-imgs {
+#comment-imgs img{
   padding: 0px;
   width: 380px;
   height: 100%;
