@@ -1086,6 +1086,7 @@ width: 100vw;
 }
 
 .comment-row h4 {
+  font-size: 16px;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -2053,6 +2054,7 @@ i {
 }
 
 .stel-row h4 {
+  font-size: 16px;
   padding: 10px;
 }
 
@@ -2078,6 +2080,9 @@ i {
 }
 .stel-row i {
   Font size: 1.0rem;
+}
+.stel-row h4 {
+  font-size: 14px;
 }
 .stel-row p {
   font-size: 10px;
