@@ -694,11 +694,6 @@ width: 100vw;
     width: 230px;
   }
 }
-@media (max-width: 550px) {
-  width: 270px;
-
-}
-}
 /*property*/
 .property {
   margin-top: 30px;
