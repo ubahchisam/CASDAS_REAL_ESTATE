@@ -1121,16 +1121,16 @@ width: 100vw;
   font-size: 1.1rem;
 }
 .comment-row i {
-  Font size: 1.1rem;
+  Font size: 1.0rem;
 }
 .comment-row p {
-  font-size: 12px;
+  font-size: 10px;
   margin: 3px;
   Padding: 7px;
 }
 .stars i{
-  font-size: 11px;
-  padding: 0px;
+  font-size: 14px;
+  padding-top: 5px;
 }
 }
 
@@ -2079,16 +2079,16 @@ i {
   font-size: 1.1rem;
 }
 .stel-row i {
-  Font size: 1.1rem;
+  Font size: 1.0rem;
 }
 .stel-row p {
-  font-size: 12px;
+  font-size: 10px;
   margin: 3px;
   Padding: 7px;
 }
-.stars{
-  font-size: 11px;
-  padding: 0px;
+.stars i{
+  font-size: 14px;
+  padding-top: 5px;
 }
 }
 
