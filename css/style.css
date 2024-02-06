@@ -2493,7 +2493,7 @@ i {
 /*new-construction-before*/
 .new-construction-before {
   text-align: center;
-  width: 100vw;
+  width: 100%;
   height: 75vh;
 }
 
@@ -2503,7 +2503,7 @@ i {
   background-size: cover;
   background-position: center;
   height: 70vh;
-  width: 97vw;
+  width: 97%;
   z-index: -100;
   margin: auto;
   margin-left: 20px;
