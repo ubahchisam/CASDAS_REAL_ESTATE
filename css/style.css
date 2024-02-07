@@ -2540,6 +2540,12 @@ i {
   }
 }
 
+@media (max-width: 550px) {
+  .new-construction-before h1 {
+    font-size: 9.2rem;
+  }
+}
+
 /*new construction*/
 .new-construction {
   background: white;
