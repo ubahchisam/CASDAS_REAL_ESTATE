@@ -492,6 +492,41 @@ width: 100vw;
   }
 }
 
+@media (max-width:550px) {
+  .sub-header-row {
+    width: 75%;
+    margin: auto;
+    /*top: -80px;*/
+    border-radius: 15px;
+  }
+
+  #sub-header-left {
+    clear: none;
+    margin: auto;
+    margin-top: 15px;
+    height: 270px;
+  }
+
+  #sub-header-left h1 {
+    font-size: 1.5rem;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+
+  #sub-header-right {
+    margin: auto;
+  }
+
+  .sub-header-row img {
+    height: 200px;
+    width: 90%;
+  }
+
+  #sub-header-right h5 {
+    width: 32%;
+  }
+}
+
 /*discovery*/
 .discovery {
   background: #170429;
