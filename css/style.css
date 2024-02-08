@@ -3288,8 +3288,7 @@ i {
   }
 
   .agreed {
-    width: 100%;
-    background-position: center;
+    display: none;
   }
 }
 
@@ -3329,6 +3328,14 @@ i {
   .post-for-sale-by-the-owner-intr img {
     width: 100%;
     height: 75vh;
+    border-radius: 20px;
+  }
+}
+
+@media (max-width: 550px) {
+  .post-for-sale-by-the-owner-intr img {
+    width: 100%;
+    height: 55vh;
     border-radius: 20px;
   }
 }
@@ -3373,6 +3380,14 @@ i {
   }
 }
 
+@media (max-width: 550px) {
+  .home-value-intr img {
+    width: 100%;
+    height: 55vh;
+    border-radius: 20px;
+  }
+}
+
 /*payment*/
 .payment {
   padding: 20px;
@@ -3409,6 +3424,14 @@ i {
   .payment-intr img {
     width: 100%;
     height: 75vh;
+    border-radius: 20px;
+  }
+}
+
+@media (max-width: 550px) {
+  .payment-intr img {
+    width: 100%;
+    height: 55vh;
     border-radius: 20px;
   }
 }
@@ -3453,6 +3476,14 @@ i {
   }
 }
 
+@media (max-width: 550px) {
+  .lit-a-rent-intr img {
+    width: 100%;
+    height: 55vh;
+    border-radius: 20px;
+  }
+}
+
 /*my listing*/
 .my-listing {
   padding: 20px;
@@ -3493,6 +3524,14 @@ i {
   }
 }
 
+@media (max-width: 550px) {
+  .my-listing-intr img {
+    width: 100%;
+    height: 55vh;
+    border-radius: 20px;
+  }
+}
+
 /*location*/
 .location {
   padding: 20px;
@@ -3529,6 +3568,14 @@ i {
   .location-intr img {
     width: 100%;
     height: 75vh;
+    border-radius: 20px;
+  }
+}
+
+@media (max-width: 550px) {
+  .location-intr img {
+    width: 100%;
+    height: 55vh;
     border-radius: 20px;
   }
 }
