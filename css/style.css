@@ -3325,6 +3325,14 @@ i {
 }
 
 @media (max-width: 800px) {
+
+.post-for-sale-by-the-owner-intr {
+  margin: auto;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
   .post-for-sale-by-the-owner-intr img {
     width: 100%;
     height: 75vh;
@@ -3335,7 +3343,7 @@ i {
 @media (max-width: 550px) {
   .post-for-sale-by-the-owner-intr img {
     width: 100%;
-    height: 55vh;
+    height: 50vh;
     border-radius: 20px;
   }
 }
@@ -3381,9 +3389,16 @@ i {
 }
 
 @media (max-width: 550px) {
+.home-value-intr {
+  margin: auto;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
   .home-value-intr img {
     width: 100%;
-    height: 55vh;
+    height: 50vh;
     border-radius: 20px;
   }
 }
@@ -3421,6 +3436,13 @@ i {
 }
 
 @media (max-width: 800px) {
+.payment-intr {
+  margin: auto;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
   .payment-intr img {
     width: 100%;
     height: 75vh;
@@ -3431,7 +3453,7 @@ i {
 @media (max-width: 550px) {
   .payment-intr img {
     width: 100%;
-    height: 55vh;
+    height: 50vh;
     border-radius: 20px;
   }
 }
@@ -3477,9 +3499,17 @@ i {
 }
 
 @media (max-width: 550px) {
+
+.list-a-rent-intr {
+  margin: auto;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
   .lit-a-rent-intr img {
     width: 100%;
-    height: 55vh;
+    height: 50vh;
     border-radius: 20px;
   }
 }
@@ -3525,9 +3555,17 @@ i {
 }
 
 @media (max-width: 550px) {
+
+.my-listing-intr {
+  margin: auto;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
   .my-listing-intr img {
     width: 100%;
-    height: 55vh;
+    height: 50vh;
     border-radius: 20px;
   }
 }
@@ -3565,6 +3603,14 @@ i {
 }
 
 @media (max-width: 800px) {
+
+.location-intr {
+  margin: auto;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
   .location-intr img {
     width: 100%;
     height: 75vh;
@@ -3575,7 +3621,7 @@ i {
 @media (max-width: 550px) {
   .location-intr img {
     width: 100%;
-    height: 55vh;
+    height: 50vh;
     border-radius: 20px;
   }
 }
@@ -3609,9 +3655,9 @@ i {
 @media (max-width: 550px) {
 .licence-intr {
   width: 100%;
-  padding: 30px;
+  padding: 50px;
 }  
   .licence-intr img {
-    height: 70vh;
+    height: 50vh;
   }
 }
