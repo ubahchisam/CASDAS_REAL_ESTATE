@@ -744,6 +744,9 @@ width: 100vw;
   justify-content: space-around;
   padding: 25px;
 }
+.why-us-row {
+    width: 90%;
+  }
 }
 /*property*/
 .property {
