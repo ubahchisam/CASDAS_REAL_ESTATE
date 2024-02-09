@@ -3655,7 +3655,7 @@ i {
 @media (max-width: 550px) {
 .licence-intr {
   width: 100%;
-  padding: 50px;
+  padding: 0px;
 }  
   .licence-intr img {
     height: 50vh;
