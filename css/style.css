@@ -735,6 +735,16 @@ width: 100vw;
     width: 230px;
   }
 }
+
+@media (max-width: 550px) {
+  .why-us-col {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: space-around;
+  padding: 25px;
+}
+}
 /*property*/
 .property {
   margin-top: 30px;
